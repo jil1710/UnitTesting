@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B15F130-6B97-4825-8569-DC4908F2456B}|..\\MSTestCase\\MSTestCase.csproj|c:\\users\\jil\\source\\repos\\unittesting\\mstest\\mstestcase\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E42D843-9BB7-4084-A36A-044B748B218D}|MSTesting.csproj|c:\\users\\jil\\source\\repos\\unittesting\\mstest\\mstesting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E42D843-9BB7-4084-A36A-044B748B218D}|MSTesting.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E42D843-9BB7-4084-A36A-044B748B218D}|MSTesting.csproj|c:\\users\\jil\\source\\repos\\unittesting\\mstest\\mstesting\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E42D843-9BB7-4084-A36A-044B748B218D}|MSTesting.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E42D843-9BB7-4084-A36A-044B748B218D}|MSTesting.csproj|c:\\users\\jil\\source\\repos\\unittesting\\mstest\\mstesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E42D843-9BB7-4084-A36A-044B748B218D}|MSTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTestCase\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\MSTestCase\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTestCase\\HomeControllerTests.cs",
+              "RelativeToolTip": "..\\MSTestCase\\HomeControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:59:07.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T09:57:49.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:52:10.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jil\\source\\repos\\UnitTesting\\MSTest\\MSTesting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:43:41.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\bin\Debug\net6.0\NUnitTesting.deps.json
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\bin\Debug\net6.0\NUnitTesting.dll
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\bin\Debug\net6.0\NUnitTesting.pdb
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\NUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\NUnitTesting.AssemblyInfoInputs.cache
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\NUnitTesting.AssemblyInfo.cs
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\NUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\NUnitTesting.dll
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\refint\NUnitTesting.dll
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\NUnitTesting.pdb
+C:\Users\jil\source\repos\UnitTesting\NUnitTest\NUnitTesting\obj\Debug\net6.0\ref\NUnitTesting.dll
